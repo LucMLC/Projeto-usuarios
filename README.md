@@ -38,7 +38,7 @@
 
 <ol>
 
-  Clone o repositório: <b> git clone https://github.com/LucMLC/Projeto-usuarios.git </b>
+  Clone o repositório:  git clone https://github.com/LucMLC/Projeto-usuarios.git 
 
    Navegue até o diretório do projeto:  cd Projeto-usuarios 
 
