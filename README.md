@@ -30,7 +30,7 @@
 <ul>
   <li>Node.js instalado</li>
 
-    <li>Dependências do projeto instaladas (podem ser instaladas utilizando o comando <b> npm install </b> )</li>
+    Dependências do projeto instaladas (podem ser instaladas utilizando o comando <b> npm install </b> )
 
       </ul>
 
@@ -38,11 +38,11 @@
 
 <ol>
 
-  <li>Clone o repositório: <b> git clone https://github.com/LucMLC/Projeto-usuarios.git </b></li>
+  Clone o repositório: <b> git clone https://github.com/LucMLC/Projeto-usuarios.git </b>
 
-   <li>Navegue até o diretório do projeto: <b> cd Projeto-usuarios </b></li>
+   Navegue até o diretório do projeto: <b> cd Projeto-usuarios </b>
 
-    <li> Instale as dependências: <b> npm install </b> </li>
+    Instale as dependências: <b> npm install </b> 
     
 </ol>
 
