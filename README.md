@@ -46,13 +46,13 @@
     
 </ol>
 
-<h2>Uso</h2>
+<h2> Uso</h2>
 
 <ol>
 
-  <li>Inicie o servidor: npm start  </li>
+  Inicie o servidor: npm start  
 
-    <li>Acesse a aplicação no navegador:  http://localhost:3000 > </li>
+    Acesse a aplicação no navegador:  http://localhost:3000 
     
 </ol>
   
