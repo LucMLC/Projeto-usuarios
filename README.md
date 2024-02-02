@@ -1,7 +1,5 @@
 <h1>Projeto de Gerenciamento de Usuários em Node.js</h1>
 
-<b>Projeto Joken Pô é uma implementação simples do jogo pedra-papel-tesoura em HTML5, CSS3 e Javascript.</b>
-
 <h2>Descrição do Projeto</h2>
 
 <p>Este repositório contém um projeto de gerenciamento de usuários desenvolvido em Node.js com finalidade de aprimorar conceitos de estudo pessoal. O objetivo principal é criar uma aplicação simples, porém funcional, para manipulação de dados de usuários, utilizando conceitos fundamentais de Node.js e Express.</p>
