@@ -30,7 +30,7 @@
 <ul>
   <li>Node.js instalado</li>
 
-    Dependências do projeto instaladas (podem ser instaladas utilizando o comando <b> npm install </b> )
+    Dependências do projeto instaladas (podem ser instaladas utilizando o comando  npm install  )
 
       </ul>
 
@@ -40,9 +40,9 @@
 
   Clone o repositório: <b> git clone https://github.com/LucMLC/Projeto-usuarios.git </b>
 
-   Navegue até o diretório do projeto: <b> cd Projeto-usuarios </b>
+   Navegue até o diretório do projeto:  cd Projeto-usuarios 
 
-    Instale as dependências: <b> npm install </b> 
+    Instale as dependências:  npm install  
     
 </ol>
 
@@ -50,9 +50,9 @@
 
 <ol>
 
-  <li>Inicie o servidor: <b>npm start </b> </li>
+  <li>Inicie o servidor: npm start  </li>
 
-    <li>Acesse a aplicação no navegador: <b> http://localhost:3000 </b> </li>
+    <li>Acesse a aplicação no navegador:  http://localhost:3000 > </li>
     
 </ol>
   
