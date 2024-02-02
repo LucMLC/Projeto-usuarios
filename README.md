@@ -36,25 +36,25 @@
 
 <h2>Configuração</h2>
 
-<ol>
+<ul>
 
-  Clone o repositório:  git clone https://github.com/LucMLC/Projeto-usuarios.git 
+ <li> Clone o repositório:  git clone https://github.com/LucMLC/Projeto-usuarios.git </li>
 
    Navegue até o diretório do projeto:  cd Projeto-usuarios 
 
     Instale as dependências:  npm install  
     
-</ol>
+</ul>
 
-<h2> Uso</h2>
+<h2> Uso </h2>
 
-<ol>
+<ul>
 
   Inicie o servidor: npm start  
 
     Acesse a aplicação no navegador:  http://localhost:3000 
     
-</ol>
+</ul>
   
 <h2>Contribuições</h2>
 
