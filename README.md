@@ -32,7 +32,7 @@
 
     Dependências do projeto instaladas (podem ser instaladas utilizando o comando  npm install  )
 
-      </ul>
+     
 
 <h2>Configuração</h2>
 
