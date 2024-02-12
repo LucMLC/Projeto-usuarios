@@ -23,11 +23,11 @@
   
 <li> <b> Express: </b> Framework web para Node.js que simplifica o desenvolvimento de aplicativos web.</li>
 
-  </ul>
+
 
   <h2>Pré-requisitos</h2>
 
-<ul>
+
   <li>Node.js instalado</li>
 
     Dependências do projeto instaladas (podem ser instaladas utilizando o comando  npm install  )
